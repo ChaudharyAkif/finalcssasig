@@ -1,0 +1,202 @@
+nav{
+    color: #DEE2E6;
+    
+    }
+    .enab{
+        background: white;
+     
+    
+    } .enab  button {
+    
+    
+        border: 1px solid #B3BAC3;
+    }
+    .serach1{
+    
+     border: 1px solid #999da1;
+    
+    }
+    .CLO3NAV a {
+    
+    text-decoration: none;
+    /* color: #B3BAC3; */
+    padding: 5px;
+         
+    }
+    
+    /* MAIN */
+    
+    #herosection{
+        /* background-image: url(/assets/images/welcome-hero/banner.jpg); */
+        height: 100vh;
+background: #000;
+    
+    }
+    
+    .miantexter{
+        height:98vh;
+    /* color: #DEE2E6; */
+        display: flex;
+     
+        flex-direction: column;
+       justify-content: center;
+       align-items: center;
+    
+       
+    }
+    .herosectionnu2 {
+    
+        border: 1px solid black ;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    height: 10vh;
+        width:37vw ;
+       margin: 0;
+    }.heronuminpu {
+        border:none;
+    }  
+    
+    .herosectionnu2 i  {
+    
+    
+    padding-left:25px ;
+            font-size: 30px;
+    }
+    .herosectionnu2 span  {
+    
+    font-size: 18px;
+    /* padding-right:25px ; */
+    font-size: 18px;
+    font-weight: 500;
+    
+    }
+    
+    .herosectionnu3 {
+    
+        border: 1px solid black ;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    height: 10vh;
+        width:36vw ;
+     border-left:1px solid black ;
+    }
+    .herosectionnu3 span  {
+        padding-right:10px ;
+        font-size: 18px;
+        font-weight: 500;   
+        }
+        .herosectionnu3 i  {
+    padding-left:15px ;
+            font-size: 30px;
+            
+            }
+    
+    
+    
+    
+            .butoto2 {
+    color: white;
+    background-color: orangered;
+    height: 10vh;
+        width:10vw ;
+        border-radius: 10px;
+            }
+         
+
+
+
+            /* cards */
+            .iconoo{
+
+
+                font-size: 40px;
+            }
+            .colololo {
+/* height: 20vh; */
+                width: 200px;
+            }
+            .cardooop{
+                /* display: flex;
+                flex-direction: column;
+ align-items: center; */
+            }
+
+            .col22223 {
+                position: relative;
+                bottom: 50px;
+            }
+            
+            
+            .card{
+                width: 11rem
+
+
+            } 
+          .tet11{
+text-transform: uppercase;
+font-size: 30px;
+font-weight: 400;
+font-family: Arial, Helvetica, sans-serif;
+
+          }
+
+
+
+          /* cards */
+
+          .icono i{ 
+            font-size: 30px;
+            background: #EEF2F6;
+            border-radius: 50%;
+            padding: 15px;      
+          }
+
+          .bububu :hover {
+
+            background:#FF545A;
+   color: white;
+.btnoutl{
+color: #FF545A;
+    background: white;
+}
+.icono i {
+
+background-color: white;
+    color:  #FF545A;
+
+}
+
+
+        }
+        
+        
+        .btnoutl{
+            outline: 1px solid #C1C1C1 ;
+        }
+     
+   .ainn {
+width: 20rem;
+   }
+   /* .icono i {
+
+font-size: 30px;
+
+   } */
+   .icono img {
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    background: #EEF2F6;
+    padding: 15px;  
+       }
+
+
+
+       /* explore */
+
+       #explore {
+
+        margin-top: 105px;
+       }
